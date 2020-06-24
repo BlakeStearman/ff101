@@ -1,6 +1,10 @@
 ## Fantasy Football 101
 This is a basic presentation built using reveal.js to help initiate new members of a fantasy football league who haven't played fantasy football in the past.
 
+## Live Presentation
+
+https://blakestearman.github.io/ff101/
+
 ## Built Using
 <p align="center">
   <a href="https://revealjs.com">
